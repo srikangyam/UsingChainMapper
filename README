@@ -1,0 +1,2 @@
+This uses ChainMapper to perform Job Chaining.
+However, this is applicable for YARN setup only
